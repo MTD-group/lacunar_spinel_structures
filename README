@@ -1,0 +1,8 @@
+
+This repository contains the DFT relaxed crystal structures of lacunar spinels at different levels of exchange-correlation functionals.
+
+The files are named as follows:
+-- compound name
+-- space group
+-- DFT functional used 
+-- (optional) if multiple magnetic moment configurations are found, the last term specifies the magnetic moment at convergence (e.g. mu5 means \mu = 5)
