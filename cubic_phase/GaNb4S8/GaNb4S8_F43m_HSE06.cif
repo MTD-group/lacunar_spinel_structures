@@ -115,3 +115,20 @@ _space_group_symop_operation_xyz
 94 z+1/2,-y+1/2,-x
 95 -z+1/2,y+1/2,-x
 96 -z+1/2,-y+1/2,x
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Ga1 Ga   4 b 0.50000 0.50000 0.50000 1.00000 0,0,0    
+Nb1 Nb  16 e 0.10460 0.10460 0.10460 1.00000 Dx,Dx,Dx 
+S1  S   16 e 0.86845 0.86845 0.86845 1.00000 Dx,Dx,Dx 
+S2  S   16 e 0.36673 0.36673 0.36673 1.00000 Dx,Dx,Dx 
+ 
+# end of cif
